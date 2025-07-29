@@ -83,14 +83,14 @@ JWT_SECRET=your_jwt_secret
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="public/screenshots/1.png" width="45%" style="margin: 10px;" />
-  <img src="public/screenshots/2.png" width="45%" style="margin: 10px;" />
+  <img src="frontend/public/screenshots/1.png" width="45%" style="margin: 10px;" />
+  <img src="frontend/public/screenshots/2.png" width="45%" style="margin: 10px;" />
   <br/>
-  <img src="public/screenshots/3.png" width="45%" style="margin: 10px;" />
-  <img src="public/screenshots/4.png" width="45%" style="margin: 10px;" />
+  <img src="frontend/public/screenshots/3.png" width="45%" style="margin: 10px;" />
+  <img src="frontend/public/screenshots/4.png" width="45%" style="margin: 10px;" />
   <br/>
-  <img src="public/screenshots/5.png" width="45%" style="margin: 10px;" />
-  <img src="public/screenshots/6.png" width="45%" style="margin: 10px;" />
+  <img src="frontend/public/screenshots/5.png" width="45%" style="margin: 10px;" />
+  <img src="frontend/public/screenshots/6.png" width="45%" style="margin: 10px;" />
 </div>
 
 ## 👨‍💻 Author
