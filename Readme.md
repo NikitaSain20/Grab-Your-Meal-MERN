@@ -52,51 +52,42 @@
 
 .env ← Environment variables
 
-yaml
-Copy
-Edit
-
 ---
 
 ## ⚙️ Installation
 
 ### 1. Clone the repo
 
-```bash
-git clone https://github.com/your-username/grab-your-meal-mern.git
+git clone https://github.com/NikitaSain20/Grab-Your-Meal-MERN
 cd grab-your-meal-mern
-2. Install Backend
-bash
-Copy
-Edit
+
+### 2. Install Backend
+
 cd backend
 npm install
 npm start
-3. Install Frontend
-bash
-Copy
-Edit
+
+### 3. Install Frontend
+
 cd ../frontend
 npm install
 npm start
-🌐 Environment Variables
+
+### 4.Set Environment Variables
+
 🔐 In /backend/.env
-env
-Copy
-Edit
 PORT=5000
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
-📸 Screenshots
-Add your screenshots inside /frontend/public/screenshots and reference them here:
 
-markdown
-Copy
-Edit
+## 📸 Screenshots
+
 ![Admin Dashboard](./frontend/public/screenshots/admin-dashboard.png)
 ![Customer Booking](./frontend/public/screenshots/customer-booking.png)
-```
 
-👨‍💻 Author
-Developed by Nikita Sain
+## 👨‍💻 Author
+
+<br/>
+Developed by Nikita Sain.
 Feel free to fork, star ⭐, and contribute!
+```
